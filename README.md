@@ -44,7 +44,7 @@
 
 1. Clone 仓库
 ```bash
-git clone https://github.com/你的用户名/AssignPass.git
+git clone https://github.com/wph12308/AssignPass.git
 ```
 
 2. 用 Android Studio 打开项目
