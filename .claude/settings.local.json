@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./gradlew assembleDebug)",
+      "Bash(JAVA_HOME=\"\" ./gradlew --version)"
+    ]
+  }
+}
